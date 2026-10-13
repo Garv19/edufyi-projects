@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+spacy
+streamlit
+PyPDF2
+python-docx
+sentence-transformers
+torch
+torchvision
+openpyxl

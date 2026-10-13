@@ -1,0 +1,30 @@
+JOB TITLE: Data Scientist
+
+We are looking for an entry-level Data Scientist with strong
+programming and data analysis skills.
+
+REQUIRED SKILLS:
+Python
+SQL
+Machine Learning
+NLP
+Pandas
+NumPy
+Scikit-learn
+Data Analysis
+Statistics
+
+PREFERRED SKILLS:
+AWS
+Git
+Deep Learning
+TensorFlow
+Power BI
+
+RESPONSIBILITIES:
+- Build and evaluate machine learning models.
+- Analyze and clean datasets.
+- Perform exploratory data analysis.
+- Develop NLP-based solutions.
+- Work with Python and SQL.
+- Communicate data-driven insights.
